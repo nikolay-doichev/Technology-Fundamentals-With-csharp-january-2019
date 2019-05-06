@@ -1,0 +1,7 @@
+bin
+obj
+*.sln
+v15
+*.exe
+*.config
+Properties
