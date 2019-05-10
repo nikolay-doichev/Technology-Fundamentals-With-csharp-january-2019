@@ -81,4 +81,34 @@
     <td><a href="" >-</a></td>
 </tr>
 <tr>
+  <td>14</td>
+    <th>Text processing and regular expressions</th>
+    <td><a href="https://github.com/nikolay-doichev/Technology-Fundamentals-With-csharp-january-2019/tree/master/08.StringAndTextProcessing_Exercise" >&#9997;</a></td>
+    <td><a href="" >&#9997;</a></td>
+</tr>
+<tr>
+  <td>15</td>
+    <th>QA Introduction</th>
+    <td><a href="" >-</a></td>
+    <td><a href="" >-</a></td>
+</tr>
+<tr>
+  <td>16</td>
+    <th>Basic Web</th>
+    <td><a href="" >-</a></td>
+    <td><a href="" >-</a></td>
+</tr>
+<tr>
+  <td>17</td>
+    <th>Git and GitHub</th>
+    <td><a href="" >-</a></td>
+    <td><a href="" >-</a></td>
+</tr>
+<tr>
+  <td>18</td>
+    <th>Basic CRUD</th>
+    <td><a href="" >-</a></td>
+    <td><a href="" >-</a></td>
+</tr>
+<tr>
   </table>
