@@ -1,36 +1,37 @@
 ﻿using System;
-using System.Linq;
 using System.Collections.Generic;
+using System.Linq;
 
-namespace _02._A_Miner_Task
+namespace _07.AssociativeArrays_Exercise
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var resources = new Dictionary<string, int>();
+            var counterOfCharacters = new Dictionary<char, int>();
 
-            string command = Console.ReadLine();
-            
-            while (command!="stop")
+            var words = Console.ReadLine().Split(' ').ToList();
+
+            for (int index = 0; index < words.Count; index++)
             {
-                string currentResource = command;
-                command = Console.ReadLine();
-                int resourceQuantity = int.Parse(command);
-                if (!resources.ContainsKey(currentResource))
-                {                    
-                    resources.Add(currentResource, resourceQuantity);
-                }
-                else
+                string currentWord = words[index];
+                for (int index2 = 0; index2 < currentWord.Length; index2++)
                 {
-                    resources[currentResource] += resourceQuantity;
-                }
-                command = Console.ReadLine();
-            }
+                    char currentChar = currentWord[index2];
 
-            foreach (var resource in resources)
+                    if (!counterOfCharacters.ContainsKey(currentChar))
+                    {
+                        counterOfCharacters.Add(currentChar, 1);
+                    }
+                    else
+                    {                        
+                        counterOfCharacters[currentChar] += 1;
+                    }
+                }
+            }
+            foreach (var item in counterOfCharacters)
             {
-                Console.WriteLine($"{resource.Key} -> {resource.Value}");
+                Console.WriteLine($"{item.Key} -> {item.Value}");
             }
         }
     }
