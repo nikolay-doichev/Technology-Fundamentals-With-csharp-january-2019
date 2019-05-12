@@ -37,7 +37,7 @@
   <tr>
   <td>5</td>
     <th>Arrays</th>
-    <td><a href="" >&#9997;</a></td>
+    <td><a href="https://github.com/nikolay-doichev/Technology-Fundamentals-With-csharp-january-2019/tree/master/03.Arrays_Lecture" >&#9997;</a></td>
     <td><a href="https://github.com/nikolay-doichev/Technology-Fundamentals-With-csharp-january-2019/tree/master/03.Arrays_Exersice" >&#9997;</a></td>    
 </tr>
   <tr>
