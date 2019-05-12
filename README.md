@@ -13,7 +13,7 @@
 <tr>
   <td>1</td>
   <th>CSharp Intro and Basic Syntax</th>
-  <td><a href="-" >&#9997;</a></td>
+  <td><a href="https://github.com/nikolay-doichev/Technology-Fundamentals-With-csharp-january-2019/tree/master/01.BasicSyntax%2CConditionalStatementsAndLoops_Lecture" >&#9997;</a></td>
   <td><a href="https://github.com/nikolay-doichev/Technology-Fundamentals-With-csharp-january-2019/tree/master/01.BasicSyntax%2CConditionalStatementsAndLoops_Exersice" >&#9997;</a></td>  
 </tr>
 <tr>
@@ -25,7 +25,7 @@
   <tr>
   <td>3</td>
     <th>Data Types and Variables</th>
-    <td><a href="" >&#9997;</a></td>
+    <td><a href="https://github.com/nikolay-doichev/Technology-Fundamentals-With-csharp-january-2019/tree/master/02.DataTypesAndVariablesSecond_Lecture" >&#9997;</a></td>
     <td><a href="https://github.com/nikolay-doichev/Technology-Fundamentals-With-csharp-january-2019/tree/master/02.DataTypesAndVariablesSecond_Exersice" >&#9997;</a></td>    
 </tr>
   <tr>
